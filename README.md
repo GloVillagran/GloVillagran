@@ -1,4 +1,5 @@
-![header](https://github.com/GloVillagran/GloVillagran/assets/122558033/fc4bd747-90c2-4bfa-b5af-d342ba1e6fab)
+
+![imagen Gloria](https://github.com/GloVillagran/GloVillagran/assets/122558033/6058a81f-c931-4b97-b4de-69ace72295b1)
 
 
 ### :rocket: Acerca de mí 
