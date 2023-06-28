@@ -7,6 +7,7 @@ FrontEnd Developer, con experiencia en Desarrollo Web, mediante el aprendizaje p
 Estoy en busca de nuevos retos y oportunidades de crecimiento.
 
 ### :open_file_folder: Mis proyectos 
+* [Burger-Queen](https://github.com/GloVillagran/DEV004-burger-queen-api-client)
 * [Md-Links](https://github.com/GloVillagran/DEV004-md-links)
 * [Red Social Coffee Hour](https://github.com/GloVillagran/DEV004-social-network)
 * [Data Lovers Pokemon](https://github.com/GloVillagran/DEV004-data-lovers)
