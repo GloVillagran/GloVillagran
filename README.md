@@ -3,10 +3,11 @@
 
 
 ### :rocket: Acerca de mí 
-FrontEnd Developer, con experiencia en Desarrollo Web, mediante el aprendizaje por proyectos e incorporación de las metologias ágiles. Experiencia enfocada en código de calidad, patrones de diseño y buenas prácticas. Con manejo en JavaScript, HTML y CSS. Me caracterizo por ser una persona perseverante, tener iniciativa, pensamiento critico y buen trabajo en equipo. 
+FrontEnd Developer, con experiencia en Desarrollo Web, mediante el aprendizaje por proyectos e incorporación de las metologias ágiles. Experiencia enfocada en código de calidad, patrones de diseño y buenas prácticas. Con manejo en JavaScript, HTML y CSS, entro otros. Me caracterizo por ser una persona perseverante, tener iniciativa, pensamiento critico y buen trabajo en equipo. 
 Estoy en busca de nuevos retos y oportunidades de crecimiento.
 
 ### :open_file_folder: Mis proyectos 
+* [Portafolio](https://glovillagran.github.io/CV_Final/index.html)
 * [Burger-Queen](https://github.com/GloVillagran/DEV004-burger-queen-api-client)
 * [Md-Links](https://github.com/GloVillagran/DEV004-md-links)
 * [Red Social Coffee Hour](https://github.com/GloVillagran/DEV004-social-network)
