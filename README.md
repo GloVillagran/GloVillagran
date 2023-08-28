@@ -3,7 +3,7 @@
 
 
 ### :rocket: Acerca de mí 
-FrontEnd Developer, con experiencia en Desarrollo Web, mediante el aprendizaje por proyectos e incorporación de las metologias ágiles. Experiencia enfocada en código de calidad, patrones de diseño y buenas prácticas. Con manejo en JavaScript, HTML y CSS, entro otros. Me caracterizo por ser una persona perseverante, tener iniciativa, pensamiento critico y buen trabajo en equipo. 
+FrontEnd Developer, con experiencia en Desarrollo Web, mediante el aprendizaje por proyectos e incorporación de las metologias ágiles. Experiencia enfocada en código de calidad y buenas prácticas. Con manejo en JavaScript, HTML y CSS, entro otros. Me caracterizo por ser una persona perseverante, tener iniciativa, pensamiento critico y buen trabajo en equipo. 
 Estoy en busca de nuevos retos y oportunidades de crecimiento.
 
 ### :open_file_folder: Mis proyectos 
